@@ -5,5 +5,8 @@ Awesome-cloud-papers is a collection of awesome papers about cloud computing inc
 
 # Catalogue
 
-- [Cloud Resource Management]()(#cloud-resource-managenet)
+- [Root cause analysis](./root_cause_analysis/README.md)
 
+
+# Contributing
+Pull requests for adding new papers and fixing bugs are welcome.
