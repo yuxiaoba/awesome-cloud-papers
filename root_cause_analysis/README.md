@@ -20,7 +20,7 @@ In this paper, log is first transformed into metric by `linear interpolation`. T
 
 - [21_ASPLOS_Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices](https://www.csl.cornell.edu/~delimitrou/papers/2021.asplos.sage.pdf)
 
-Sage uses Causal Bayesian Networks to capture the dependencies between the microservices in an endto-end application topology, and counterfactuals (events that happen given certain alternative conditions in a hypothetical world) through a Graphical Variational Autoencoder to examine the impact of microservices on end-to-end performance.
+Sage uses `Causal Bayesian Networks`å to capture the dependencies between the microservices in an endto-end application topology, and `counterfactuals` (events that happen given certain alternative conditions in a hypothetical world) through a `Graphical Variational Autoencoder` to examine the impact of microservices on end-to-end performance.
 
 ![Sage](./figures/sage.jpg)
 
