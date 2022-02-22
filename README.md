@@ -4,7 +4,7 @@ Awesome-cloud-papers is a collection of awesome papers about cloud computing inc
 
 
 # Catalogue
-
+- [Chaos engineering](./chaos_engineering/README.md)
 - [Root cause analysis](./root_cause_analysis/README.md)
 
 
