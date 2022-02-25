@@ -25,3 +25,5 @@ Quantiles are famously impossible to compute exactly without holding on to all t
 - [21_SRDS_What Distributed Systems Say: A Study of Seven Spark Application Logs](https://arxiv.org/pdf/2108.08395.pdf)
 
 This paper provides a quantitative assessment of logging cost in different verbosity levels and how that translates to information gain in distributed systems.
+
+[[data]](https://github.com/sgholamian/logging_cost)
